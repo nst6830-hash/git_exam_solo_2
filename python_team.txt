@@ -4,3 +4,5 @@ manager: Lee
 
 members: Juli
 members: Jack ,Yang, Chae
+
+friends: Pochaco
